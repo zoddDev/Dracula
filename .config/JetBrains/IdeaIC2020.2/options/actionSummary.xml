@@ -397,6 +397,9 @@
       <entry key="WelcomeScreen.OpenProject">
         <ActionSummary times="14" last="1595154390251" />
       </entry>
+      <entry key="WelcomeScreen.Settings">
+        <ActionSummary times="1" last="1633609449285" />
+      </entry>
       <entry key="com.intellij.codeInsight.daemon.NavigateAction">
         <ActionSummary times="2" last="1595157200874" />
       </entry>
@@ -483,6 +486,9 @@
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
         <ActionSummary times="122" last="1596563145200" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$2">
+        <ActionSummary times="1" last="1633609447132" />
       </entry>
       <entry key="com.intellij.refactoring.suggested.PerformSuggestedRefactoringKt$createAndShowBalloon$3">
         <ActionSummary times="4" last="1594981065133" />

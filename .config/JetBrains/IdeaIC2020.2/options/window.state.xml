@@ -22,9 +22,13 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="965" y="469" key="WELCOME_SCREEN" timestamp="1608840242456">
-      <screen x="0" y="26" width="1920" height="1054" />
+    <state x="782" y="86" key="SettingsEditor" timestamp="1633609459606">
+      <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="965" y="469" key="WELCOME_SCREEN/0.26.1920.1054" timestamp="1608840242456" />
+    <state x="782" y="86" key="SettingsEditor/0.0.2560.1080" timestamp="1633609459606" />
+    <state x="1280" y="436" key="WELCOME_SCREEN" timestamp="1633609461678">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1280" y="436" key="WELCOME_SCREEN/0.0.2560.1080" timestamp="1633609461678" />
   </component>
 </application>

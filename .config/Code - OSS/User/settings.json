@@ -6,7 +6,7 @@
     "editor.renderControlCharacters": false,
     "workbench.iconTheme": "material-icon-theme",
     "C_Cpp.updateChannel": "Insiders",
-    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.colorTheme": "Dracula",
     "terminal.integrated.shell.linux": "/bin/zsh",
     "window.zoomLevel": 0,
     "go.autocompleteUnimportedPackages": true,
