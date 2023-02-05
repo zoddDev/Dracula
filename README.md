@@ -1,3 +1,3 @@
 # Dracula
 
-![alt text](screenshot.png)
+![alt text](screenshot_.png)
